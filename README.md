@@ -13,7 +13,7 @@ It helps users find products like power banks under a specific budget and respon
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 - Python 3.12
 - Flask
 - Google Generative AI (Gemini API)
